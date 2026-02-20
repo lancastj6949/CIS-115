@@ -57,6 +57,5 @@ public class M3CW2_Lancaster{
 
   System.out.println("String Value:" + myString);
 
- }
- 
+  }
 }
