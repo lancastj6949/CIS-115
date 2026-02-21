@@ -22,9 +22,9 @@ public class M3HW2_Lancaster
 
       // java code
       System.out.print("Enter number one:");
-      num1 = keyboard.nextDouble () ;
+      num1 = keyboard.nextDouble();
       System.out.print("Enter number two:");
-      num2 = keyboard.nextDouble() ;
+      num2 = keyboard.nextDouble();
       System.out.print("Enter number three:");
       num3 = keyboard.nextDouble();
 
