@@ -48,7 +48,7 @@ public class M4CW1_Lancaster {
       // Display the percentage of nonmajors.
       // Display "Nonmajors: ", percentNonmajors, "%"
       System.out.println("nonMajors");
-      System.out.println(percentNonmajors);1
+      System.out.println(percentNonmajors);
       
     }
  }
