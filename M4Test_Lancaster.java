@@ -13,7 +13,7 @@ public class M4Test_Lancaster
      Scanner k = new Scanner(System.in);
      System.out.println("Enter the temperature in fahrenheit: ");
      freezing_temperature = k.nextDouble();
-     if (freezing_temperature <= 32)
+     if (freezing_temperature < 32)
         System.out.println("Freezing-bundle up: ");
       System.out.println("Enter the temperature again in fahrenheit: ");
       cold_temperature = k.nextDouble();
