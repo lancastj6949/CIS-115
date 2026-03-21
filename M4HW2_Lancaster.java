@@ -13,9 +13,6 @@ public class M4HW2_Lancaster
         // Declare age
         // Declare not serving felonly sentence/probation
         Double us_citizen, County_registration_time, age, serving_felonly_sentence_probation;
-        String yes;
-        String ability_to_vote_accepted;
-        String ability_to_not_vote;
         Scanner k = new Scanner(System.in);
 
         System.out.println("Enter are you a us citizen, 0 is yes, 1 is no: ");
