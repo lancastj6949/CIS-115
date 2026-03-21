@@ -1,7 +1,7 @@
 // M3CW1 Assignment
 // your class name should match your file name
 // Be sure to make this happen when you create the java file
-public class M3CW1_Lanca
+public class M3CW1_Lancaster
 {
    public static void main(String[] args)
     { 
