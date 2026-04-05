@@ -1,5 +1,8 @@
 
-
+// John Lancaster
+// 4/4/2026
+// M5HW1
+// Calculates a students average and letter grade 
 
 
 
