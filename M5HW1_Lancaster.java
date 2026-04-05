@@ -12,7 +12,7 @@ public class M5HW1_Lancaster
     public static void main(String[] args)
     {    
         Scanner k = new Scanner(System.in);
-       double grade_amount, first_grade, second_grade, third_grade, average;
+       double grade_amount, first_grade, second_grade, third_grade, average, will_continue;
        System.out.println("Enter the amount of grades you want averaged: ");
        grade_amount = k.nextDouble();
        if (grade_amount >=3)
@@ -67,7 +67,18 @@ public class M5HW1_Lancaster
                 System.out.println(" grade is "+ grade);
 
         }
-        if(grade_amount<3 && grade_amount >1);
+         System.out.println("Would you like to run it again? 1 is yes, -1 is no");
+         will_continue = k.nextDouble();
+         if(will_continue <=0){
+           System.out.println("Program complete, thank you: ");
+         }
+         while(will_continue <=0);
+        
+          
+         if(will_continue >=1)
+         System.out.println("Enter the amount of grades averaged: ");
+        grade_amount = k.nextDouble();
+          if(grade_amount<3 && grade_amount >1);
           do{
                 System.out.println("Enter grade #1: ");
                 first_grade = k.nextDouble();
