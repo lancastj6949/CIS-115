@@ -66,7 +66,7 @@ public class M5HW2_Lancaster
           System.out.println("Do you want to run it again? 1 for yes, -1 for no");
           will_continue = k.nextDouble();
           if(will_continue <= -1)
-            System.out.println(" Program comeplete, thank you: ");
+            System.out.println(" Program complete, thank you: ");
           }
           while(will_continue <= -1);
           if(will_continue <=1);
