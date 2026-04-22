@@ -1,7 +1,7 @@
 // John Lancaster
 // 4/22/2026
 // M6HW1
-// Porgram calculates the gross pay for an employee
+// Program calculates the gross pay for an employee
 
 import java.util.Scanner;
 public class M6HW1_Lancaster
